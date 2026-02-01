@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Do you like me? (p.s click on top right for music for better experience)",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝",
-        message: "congratulations, unlimited cuddles and puchis !",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! take the ss of this to redeem the below offer 🎉💖💝",
+        message: "congratulations, you unlocked unlimited cuddles and puchis !",
+        emojis: "💋"  // These will bounce around
     },
 
     // Color scheme for the website
