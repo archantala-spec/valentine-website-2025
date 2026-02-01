@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me? (p.s click on top right for music for better experience)",                                    // First interaction
+            text: "Do you like me? (p.s for better experience click on music button)",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
